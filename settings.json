@@ -1,0 +1,4 @@
+# settings for visual code
+
+"python.formatting.provider": "yapf",
+"keyboard.dispatch": "keyCode"
